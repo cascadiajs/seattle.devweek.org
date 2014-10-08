@@ -3,7 +3,7 @@
 
 ![logo](http://seattle.devweek.org/assets/img/devweek_logo_bg.png)
 
-[Seattle Dev Week][1] is a community-driven meta event that showcases the best events, activities and spaces for developers in Portland, OR. It is modeled after last year's [Vancouver Dev Week][2]. 
+[Seattle Dev Week][1] is a community-driven meta event that showcases the best events, activities and spaces for developers in Seattle, WA. It is modeled after last year's [Vancouver Dev Week][2]. 
 
 The purpose of a Dev Week is two-fold:
 * To better connect developers from different communities (JS, Python, Gaming, etc) to one another.
